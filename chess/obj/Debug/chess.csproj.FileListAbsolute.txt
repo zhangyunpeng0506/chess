@@ -1,0 +1,14 @@
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\chess\chess\bin\chess.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\chess\chess\bin\chess.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\chess\chess\obj\Debug\chess.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\chess\chess\obj\Debug\chess.dll
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\chess\chess\obj\Debug\chess.pdb
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\chess\chess\obj\Debug\chess.picture.resources
+C:\Users\Administrator\Documents\Visual Studio 2012\Projects\chess\chess\obj\Debug\chess.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\chess\chess\bin\chess.dll
+C:\Users\Administrator\Desktop\chess\chess\bin\chess.pdb
+C:\Users\Administrator\Desktop\chess\chess\obj\Debug\chess.picture.resources
+C:\Users\Administrator\Desktop\chess\chess\obj\Debug\chess.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\chess\chess\obj\Debug\chess.dll
+C:\Users\Administrator\Desktop\chess\chess\obj\Debug\chess.pdb
+C:\Users\Administrator\Desktop\chess\chess\obj\Debug\chess.csprojResolveAssemblyReference.cache

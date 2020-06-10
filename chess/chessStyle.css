@@ -1,0 +1,19 @@
+﻿table{
+    border: 1px solid #000;
+}
+td{
+    width: 85px;
+    height: 85px;
+    background: #4cff00;
+}
+.td01{
+    background: #ffffff;
+}
+.td02{
+    background: #1e1c1c;
+}
+.td03 {
+    width:85px;
+    height:20px;
+}
+
